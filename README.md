@@ -3,7 +3,7 @@ My name is Dominic Rutkowski, and I am a junior studying computer science and ma
 ### My Experience
 
 - Incoming SWE Intern @ [Databricks](https://www.databricks.com/) (Summer 2024)
-- Incoming Undergraduate Researcher w/ [Cameron Musco](https://people.cs.umass.edu/~cmusco/) (Spring 2024 — Fall 2024)
+- Undergraduate Researcher w/ [Cameron Musco](https://people.cs.umass.edu/~cmusco/) (Spring 2024 — Fall 2024)
 - SWE Intern @ [Roblox](https://www.roblox.com/) (Summer 2023)
 - SWE Intern @ [Onshape](https://www.onshape.com/) (Winter 2023)
 - SWE Intern @ [Onshape](https://www.onshape.com/) (Summer 2022)
