@@ -1,9 +1,9 @@
-My name is Dominic Rutkowski, and I am a senior studying computer science and mathematics at the [University of Massachusetts Amherst](https://www.umass.edu/). I am interested in the theory, systems, and implementation of software that deals with large amounts of data. I will graduate in December 2024, and after that, I will return to Databricks to continue building CI infrastructure at scale.
+My name is Dominic Rutkowski, and I am a recent graduate in computer science and mathematics at the University of Massachusetts Amherst. I am interested in the theory, systems, and implementation of software that deals with large amounts of data. In April 2025, I will start as a software engineer at Databricks to build CI infrastructure at scale.
 
 ### My Experience
 
-- Incoming SWE @ [Databricks](https://www.databricks.com/) (Starting Spring 2025)
-- Undergraduate Researcher w/ [Cameron Musco](https://people.cs.umass.edu/~cmusco/) (2024)
+- Incoming SWE @ [Databricks](https://www.databricks.com/) (Starting April 2025)
+- Undergraduate Researcher w/ [Cameron Musco](https://people.cs.umass.edu/~cmusco/) (Fall 2023–Present)
 - SWE Intern @ [Databricks](https://www.databricks.com/) (Summer 2024)
 - SWE Intern @ [Roblox](https://www.roblox.com/) (Summer 2023)
 - SWE Intern @ [Onshape](https://www.onshape.com/) (Winter 2023)
